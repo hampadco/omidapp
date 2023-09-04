@@ -24,7 +24,7 @@
 
 # templete-Smart-Bus  three page Featurs
 
-![Alt_text](https://github.com/hampadco/templete-Smart-Bus/blob/master/source/6.png?raw=true)
+![Alt_text](https://github.com/hampadco/templete-Smart-Bus/blob/master/source/7.png?raw=true)
 
 # templete-Smart-Bus  three page How To Works
 
