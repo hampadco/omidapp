@@ -1,4 +1,4 @@
-![image](https://github.com/hampadco/templete-Smart-Bus/assets/43703064/40cd2223-6d0e-435d-a51d-14b7ee66b052)# templete-Smart-Bus  one 
+# templete-Smart-Bus  one 
 
 ![Alt_text](https://github.com/hampadco/templete-Smart-Bus/blob/master/source/1.jpeg)
 
