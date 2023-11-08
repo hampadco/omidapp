@@ -1,6 +1,7 @@
-# templete-Smart-Bus  one 
+# امید اپ 
+آنالیز بخش ها به صورت زیر انجام شد .
 
-![Alt_text](https://github.com/hampadco/templete-Smart-Bus/blob/master/source/1.jpeg)
+![Alt_text](https://github.com/hampadco/omidapp/blob/master/source/omid.png)
 
 
 
